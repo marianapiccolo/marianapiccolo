@@ -18,4 +18,6 @@
 
  -->📫 How to reach me: 
  
-![Linkedin Badge](https://img.shields.io/badge/-Mariana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/mariana-picoli-carvalho/)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariana-picoli-carvalho/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
