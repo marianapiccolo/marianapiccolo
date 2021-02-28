@@ -13,7 +13,7 @@
  My skills:
 
 
-<img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=java&logoColor=white"></img> <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white"></img><img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"></img><img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white"></img><img src="https://img.shields.io/badge/R-FF00FF?style=for-the-badge&logo=r&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=java&logoColor=white"></img> <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white"></img> <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=white"></img> <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logo=python&logoColor=white"></img> <img src="https://img.shields.io/badge/R-FF00FF?style=for-the-badge&logo=r&logoColor=white"></img>
 
 
  -->📫 How to reach me: 
