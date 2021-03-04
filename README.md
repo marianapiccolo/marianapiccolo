@@ -19,3 +19,5 @@
  -->📫 How to reach me: 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Mariana%20Piccolo%20de%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-picoli-carvalho/)](https://www.linkedin.com/in/mariana-picoli-carvalho/)
+
+![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianapiccolo&theme=radical&show_icons=true)
