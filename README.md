@@ -1,4 +1,5 @@
 ### Hey 👋 Welcome to my profile
+<img align="right" width="250px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/sparkle1.gif">
 
  My name is Mariana, I'm from Brazil. I'm a student of Data Science and Economics 👩🏻‍💻💻📈
 
