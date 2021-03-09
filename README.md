@@ -7,7 +7,7 @@
 
 
  - 💻 I'm currently participating in a Java developer bootcamp at Generation Brasil
- - 📚 I'm currently studying English,French and Italian<img align="right" width="35px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/england.gif"><img align="right" width="30px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/franca.gif"><img align="right" width="35px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/Animated-Flag-Italy.gif">
+ - 📚 I'm currently studying English <img width="25px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/england.gif"> French <img width="20px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/franca.gif"> and Italian<img width="25px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/Animated-Flag-Italy.gif">
 
 
 
