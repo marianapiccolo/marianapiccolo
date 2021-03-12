@@ -1,7 +1,7 @@
 ### Hey 👋 Welcome to my profile
 <img align="right" width="350px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/giphy.gif">
 
- My name is Mariana, I'm from Brazil. I'm a student of Data Science and Economics 👩🏻‍💻💻📈
+ My name is Mariana, I'm from Brazil. I'm a student of Data Science and Economics 👩🏻‍💻📈
 
  I'm passionate about finance, technology and solving problems.
 
