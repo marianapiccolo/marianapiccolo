@@ -5,8 +5,8 @@
 
  I'm passionate about finance, technology and solving problems.
 
- - 💻 I'm currently participating in a Java developer bootcamp at Generation Brasil
- - 📚 I'm currently studying English <img width="25px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/england.gif"> French <img width="20px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/franca.gif"> and Italian<img width="25px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/Animated-Flag-Italy.gif">
+ - 🏠 I'm currently living in Italy.
+ - 📚 I'm studying English <img width="25px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/england.gif"> French <img width="20px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/franca.gif"> and Italian<img width="25px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/Animated-Flag-Italy.gif">
 
 
 
