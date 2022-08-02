@@ -1,6 +1,6 @@
 ### Hey 👋🏻 Welcome to my profile <img align="left" alt="Mariana-pic" height="40" style="border-radius:50px;" src="https://i.ibb.co/DbLYfL0/download20220802161012.png">
 
-<img align="right" width="400px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/git (1).png">
+<img align="right" width="300px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/git (1).png">
 <br>
  My name is Mariana! <br>
  I'm Brazilian-Italian and I'm passionate about the world of data 📊 <br>
