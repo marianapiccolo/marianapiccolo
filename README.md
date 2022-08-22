@@ -13,6 +13,11 @@
  
 <br>
 
+Ps: I've been updating my repositories with exercises I've done over the years.
+I hope to have everything updated soon.
+
+<br>
+
 **My skills:** <br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
