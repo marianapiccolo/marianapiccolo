@@ -8,8 +8,8 @@
 
  
  - 📈💰 I'm a student of Data Science and Economics
- - 🏠 I'm currently living in Europe.
- - 📚 I speak Portuguese, English, French and Italian. 
+ - 🏠 I'm currently living between Brazil and Europe.
+ - 📚 I speak Portuguese and I study English, French and Italian. 
  
 <br>
 
