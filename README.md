@@ -3,18 +3,15 @@
 <img align="right" width="300px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/git (1).png">
 <br>
  My name is Mariana! <br>
- I'm Brazilian-Italian and I'm passionate about the world of data 📊 <br>
+ I'm Brazilian-Italian and I'm passionate about the world of technology 💻📱 <br>
 <br>
 
  
- - 📈💰 I'm a student of Data Science and Economics
  - 🏠 I'm currently living in Italy.
- - 📚 I speak Portuguese and I study English, French and Italian. 
  
 <br>
 
-Ps: I've been updating my repositories with exercises I've done over the years.
-I hope to have everything updated soon.
+Ps: I've been updating my repositories with projects I've done over the years.
 
 <br>
 
