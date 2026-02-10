@@ -11,8 +11,6 @@
  
 <br>
 
-Ps: I've been updating my repositories with projects I've done over the years.
-
 <br>
 
 **My skills:** <br>
