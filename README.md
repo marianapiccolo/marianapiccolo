@@ -1,28 +1,61 @@
-### Hey 👋🏻 Welcome to my profile <img align="left" alt="Mariana-pic" height="40" style="border-radius:50px;" src="https://i.ibb.co/DbLYfL0/download20220802161012.png">
+<h1 align="left">Hi 👋, I'm Mariana</h1>
+<h3 align="left">Brazilian-Italian Software Engineer | Python · Backend · Data</h3>
 
-<img align="right" width="300px" src="https://github.com/marianapiccolo/marianapiccolo/blob/main/git (1).png">
-<br>
- My name is Mariana! <br>
- I'm Brazilian-Italian and I'm passionate about the world of technology 💻📱 <br>
-<br>
-
- - 🏠 I'm currently living in Italy.
-
-### My skills: <br>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="38">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="38">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="38">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" height="38">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="38">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38">
+<p align="left">
+🔹 Software Engineer with a strong foundation in <b>Python development, backend engineering, and data analysis</b><br>
+🔹 ~3 years building web applications (Django/Flask), REST APIs, and business-process automation<br>
+🔹 Bachelor's in Data Science + Postgraduate in AI Engineering. Currently deepening my hands-on skills in <b>Machine Learning & AI</b><br>
+🔹 📍 Based in Italy. Open to opportunities across Europe<br>
+🔹 🌍 Portuguese (native) · Italian (fluent) · English (fluent) · French (basic)
 </p>
 
- ### 📫 How to reach me
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Mariana%20Piccolo%20de%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-picoli-carvalho/)](https://www.linkedin.com/in/mariana-piccolo-carvalho/) 
+---
 
-<br>
-<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiccolo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=jolly"/>
+### 🛠️ Tech Stack
+
+**Languages & Core**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="38" alt="Python"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="38" alt="SQL"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="38" alt="R"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38" alt="Java"/>
+</p>
+
+**Frameworks & Data**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="38" alt="Django"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="38" alt="Flask"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="38" alt="Pandas"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="38" alt="NumPy"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="38" alt="scikit-learn"/>
+</p>
+
+**Cloud, DevOps & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="38" alt="Terraform"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="38" alt="Ansible"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="38" alt="Git"/>&nbsp;
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianapiccolo&show_icons=true&hide_border=true&theme=default"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiccolo&hide_border=true&layout=compact&langs_count=8&theme=default"/>
+</p>
+
+---
+
+### 📫 How to reach me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariana-piccolo-carvalho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://sites.google.com/view/marianapiccolo-pbi" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI%20Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Portfolio"/>
+  </a>
+</p>
