@@ -40,15 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianapiccolo&show_icons=true&hide_border=true&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiccolo&hide_border=true&layout=compact&langs_count=8&theme=default"/>
-</p>
-
----
-
 ### 📫 How to reach me
 
 <p align="left">
