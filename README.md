@@ -2,8 +2,7 @@
 <h3 align="left">Brazilian-Italian Software Engineer | Python · Backend · Data</h3>
 
 <p align="left">
-🔹 Software Engineer with a strong foundation in <b>Python development, backend engineering, and data analysis</b><br>
-🔹 ~3 years building web applications (Django/Flask), REST APIs, and business-process automation<br>
+🔹 ~4 years of overall experience in tech, with ~3 years focused on Python engineering (Django/Flask, REST APIs, automation) and a strong foundation in data analysis.<br>
 🔹 Bachelor's in Data Science + Postgraduate in AI Engineering. Currently deepening my hands-on skills in <b>Machine Learning & AI</b><br>
 🔹 📍 Based in Italy. Open to opportunities across Europe<br>
 🔹 🌍 Portuguese (native) · Italian (fluent) · English (fluent) · French (basic)
